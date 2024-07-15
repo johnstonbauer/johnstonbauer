@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnstonbauer!
-- 🧑‍🏫 I am a Computer Science Major at Wofford College.
-- 👀 I’m interested in internships focused around computer science.
+- 🧑‍🏫 I am a Computer Science Graduate of Wofford College.
+- 👀 I’m interested in entry-level Software Engineering work.
 - 🌱 I’m currently learning JavaScript, C++ and C.
 - 📫 How to reach me:
 -   Email: johnstoncbauer@gmail.com
